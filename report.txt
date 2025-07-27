@@ -1,0 +1,9 @@
+SSH Failed Login Report
+
+Attempts by user:
+admin: 1
+root: 1
+
+Attempts by IP address:
+192.168.0.1: 1
+192.168.0.3: 1

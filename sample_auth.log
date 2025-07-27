@@ -1,0 +1,4 @@
+Jul 27 16:03:45 ubuntu sshd[12345]: Failed password for invalid user admin from 192.168.0.1 port 22 ssh2
+Jul 27 16:03:50 ubuntu sshd[12346]: Accepted password for user1 from 192.168.0.2 port 22 ssh2
+Jul 27 16:03:55 ubuntu sshd[12347]: Failed password for root from 192.168.0.3 port 22 ssh2
+
